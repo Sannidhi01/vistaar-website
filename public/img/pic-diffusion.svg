@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Illustration: diffusion network where shares and algorithmic boosts expand reach across waves">
+  <defs>
+    <radialGradient id="df-g" cx="18%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#8ab4ff" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#8ab4ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="398" rx="18" fill="#0e0e11" stroke="#25252b"/>
+  <rect x="1" y="1" width="638" height="398" rx="18" fill="url(#df-g)"/>
+  <g stroke="#2e2e37" stroke-dasharray="3 6">
+    <circle cx="86" cy="200" r="120" fill="none"/>
+    <circle cx="86" cy="200" r="240" fill="none"/>
+    <circle cx="86" cy="200" r="360" fill="none"/>
+  </g>
+  <g stroke="#8ab4ff" stroke-opacity=".45" stroke-width="1.4">
+    <path d="M86 200 L206 130" fill="none"/><path d="M86 200 L206 200" fill="none"/><path d="M86 200 L206 274" fill="none"/>
+    <path d="M206 130 L326 88" fill="none"/><path d="M206 130 L326 158" fill="none"/>
+    <path d="M206 200 L326 214" fill="none"/><path d="M206 274 L326 300" fill="none"/><path d="M206 274 L326 258" fill="none"/>
+    <path d="M326 88 L446 64" fill="none"/><path d="M326 158 L446 132" fill="none"/><path d="M326 158 L446 186" fill="none"/>
+    <path d="M326 214 L446 236" fill="none"/><path d="M326 300 L446 318" fill="none"/><path d="M326 258 L446 276" fill="none"/>
+    <path d="M446 132 L560 108" fill="none"/><path d="M446 186 L560 172" fill="none"/><path d="M446 236 L560 244" fill="none"/><path d="M446 318 L560 330" fill="none"/>
+  </g>
+  <g fill="#8ab4ff">
+    <circle cx="86" cy="200" r="9"/>
+    <circle cx="206" cy="130" r="6.5"/><circle cx="206" cy="200" r="6.5"/><circle cx="206" cy="274" r="6.5"/>
+  </g>
+  <g fill="#c7d6f5">
+    <circle cx="326" cy="88" r="5"/><circle cx="326" cy="158" r="5"/><circle cx="326" cy="214" r="5"/><circle cx="326" cy="258" r="5"/><circle cx="326" cy="300" r="5"/>
+  </g>
+  <g fill="#7b7b88">
+    <circle cx="446" cy="64" r="4"/><circle cx="446" cy="132" r="4"/><circle cx="446" cy="186" r="4"/><circle cx="446" cy="236" r="4"/><circle cx="446" cy="276" r="4"/><circle cx="446" cy="318" r="4"/>
+    <circle cx="560" cy="108" r="3.4"/><circle cx="560" cy="172" r="3.4"/><circle cx="560" cy="244" r="3.4"/><circle cx="560" cy="330" r="3.4"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8f8f9c">
+    <text x="62" y="356">seed</text><text x="176" y="356">friend shares</text><text x="300" y="356">algo boost</text><text x="424" y="356">wave 3</text><text x="536" y="356">wave 4</text>
+  </g>
+</svg>

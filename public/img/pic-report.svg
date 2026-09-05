@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Illustration: a reader acquisition report with a directional score dial and a breakdown of reader intent, tap-through, curiosity gap and genre fit">
+  <defs>
+    <linearGradient id="rp-arc" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4a5568"/><stop offset="55%" stop-color="#8ab4ff"/><stop offset="100%" stop-color="#eef2fb"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="398" rx="18" fill="#0e0e11" stroke="#25252b"/>
+  <text x="36" y="48" font-family="Inter,system-ui,sans-serif" font-size="14" font-weight="600" fill="#8ab4ff">Reader acquisition report</text>
+  <line x1="36" y1="64" x2="604" y2="64" stroke="#25252b"/>
+  <!-- dial -->
+  <g transform="translate(150 210)">
+    <path d="M-92 0 a92 92 0 0 1 184 0" fill="none" stroke="#22222a" stroke-width="16" stroke-linecap="round"/>
+    <path d="M-92 0 a92 92 0 0 1 150 -53" fill="none" stroke="url(#rp-arc)" stroke-width="16" stroke-linecap="round"/>
+    <text x="0" y="-14" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="46" font-weight="700" fill="#f4f5f9">72</text>
+    <text x="0" y="12" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#8f8f9c">reader-intent score</text>
+    <text x="0" y="46" text-anchor="middle" font-family="Inter,system-ui,sans-serif" font-size="13" fill="#c9c9d4">promising intent &#183; fix the first 2s</text>
+  </g>
+  <!-- bars -->
+  <g font-family="Inter,system-ui,sans-serif" font-size="13">
+    <text x="300" y="106" fill="#9a9aa8">Reader intent</text>
+    <rect x="300" y="116" width="280" height="10" rx="5" fill="#22222a"/><rect x="300" y="116" width="196" height="10" rx="5" fill="#8ab4ff"/>
+    <text x="300" y="166" fill="#9a9aa8">Tap-through</text>
+    <rect x="300" y="176" width="280" height="10" rx="5" fill="#22222a"/><rect x="300" y="176" width="224" height="10" rx="5" fill="#8ab4ff" fill-opacity=".85"/>
+    <text x="300" y="226" fill="#9a9aa8">Curiosity gap</text>
+    <rect x="300" y="236" width="280" height="10" rx="5" fill="#22222a"/><rect x="300" y="236" width="140" height="10" rx="5" fill="#f0a08a"/>
+    <text x="300" y="286" fill="#9a9aa8">Genre fit</text>
+    <rect x="300" y="296" width="280" height="10" rx="5" fill="#22222a"/><rect x="300" y="296" width="238" height="10" rx="5" fill="#8ab4ff" fill-opacity=".7"/>
+  </g>
+  <line x1="36" y1="336" x2="604" y2="336" stroke="#25252b"/>
+  <text x="36" y="364" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#6f6f7c">top turnoff: unclear genre before the hook lands</text>
+</svg>

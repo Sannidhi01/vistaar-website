@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Illustration: a short video is broken into sampled frames, caption text and an audio waveform">
+  <defs>
+    <linearGradient id="ig-a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8ab4ff" stop-opacity=".35"/>
+      <stop offset="100%" stop-color="#8ab4ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="638" height="398" rx="18" fill="#0e0e11" stroke="#25252b"/>
+  <!-- phone -->
+  <rect x="40" y="52" width="150" height="290" rx="22" fill="#15151a" stroke="#33333c"/>
+  <rect x="52" y="76" width="126" height="220" rx="12" fill="#1c1c22"/>
+  <rect x="52" y="76" width="126" height="220" rx="12" fill="url(#ig-a)"/>
+  <circle cx="115" cy="186" r="26" fill="#0e0e11" stroke="#8ab4ff" stroke-width="2"/>
+  <path d="M108 176 L128 186 L108 196 Z" fill="#8ab4ff"/>
+  <rect x="52" y="308" width="80" height="8" rx="4" fill="#2c2c34"/>
+  <rect x="52" y="322" width="52" height="8" rx="4" fill="#22222a"/>
+  <!-- arrow -->
+  <path d="M206 196 L246 196" stroke="#4a4a55" stroke-width="2" stroke-linecap="round"/>
+  <path d="M238 189 L246 196 L238 203" fill="none" stroke="#4a4a55" stroke-width="2" stroke-linecap="round"/>
+  <!-- sampled frames -->
+  <g>
+    <rect x="264" y="60" width="112" height="70" rx="8" fill="#16161b" stroke="#8ab4ff" stroke-opacity=".55"/>
+    <rect x="392" y="60" width="112" height="70" rx="8" fill="#16161b" stroke="#33333c"/>
+    <rect x="520" y="60" width="80" height="70" rx="8" fill="#16161b" stroke="#33333c"/>
+    <path d="M276 116 L300 92 L318 108 L340 82 L364 116" fill="none" stroke="#8ab4ff" stroke-width="2" stroke-opacity=".8"/>
+    <path d="M404 116 L426 96 L448 110 L470 88 L492 116" fill="none" stroke="#54545f" stroke-width="2"/>
+    <path d="M532 116 L552 98 L572 112 L588 92" fill="none" stroke="#54545f" stroke-width="2"/>
+    <text x="264" y="150" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8f8f9c">sampled frames</text>
+  </g>
+  <!-- caption -->
+  <g>
+    <rect x="264" y="178" width="336" height="62" rx="10" fill="#16161b" stroke="#33333c"/>
+    <rect x="280" y="196" width="180" height="9" rx="4.5" fill="#3a3a44"/>
+    <rect x="280" y="214" width="60" height="14" rx="7" fill="#1f2a3d" stroke="#8ab4ff" stroke-opacity=".4"/>
+    <rect x="348" y="214" width="76" height="14" rx="7" fill="#1f2a3d" stroke="#8ab4ff" stroke-opacity=".4"/>
+    <rect x="432" y="214" width="48" height="14" rx="7" fill="#1f2a3d" stroke="#8ab4ff" stroke-opacity=".4"/>
+    <text x="264" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8f8f9c">caption + hashtags</text>
+  </g>
+  <!-- audio -->
+  <g>
+    <rect x="264" y="286" width="336" height="56" rx="10" fill="#16161b" stroke="#33333c"/>
+    <g stroke="#8ab4ff" stroke-width="3" stroke-linecap="round" stroke-opacity=".75">
+      <path d="M284 314 L284 314"/>
+      <path d="M296 306 L296 322"/><path d="M308 298 L308 330"/><path d="M320 308 L320 320"/>
+      <path d="M332 294 L332 334"/><path d="M344 304 L344 324"/><path d="M356 300 L356 328"/>
+      <path d="M368 310 L368 318"/><path d="M380 296 L380 332"/><path d="M392 306 L392 322"/>
+      <path d="M404 302 L404 326"/><path d="M416 312 L416 316"/><path d="M428 298 L428 330"/>
+    </g>
+    <g stroke="#3d3d47" stroke-width="3" stroke-linecap="round">
+      <path d="M440 308 L440 320"/><path d="M452 302 L452 326"/><path d="M464 310 L464 318"/>
+      <path d="M476 300 L476 328"/><path d="M488 306 L488 322"/><path d="M500 296 L500 332"/>
+      <path d="M512 308 L512 320"/><path d="M524 304 L524 324"/><path d="M536 310 L536 318"/>
+      <path d="M548 300 L548 328"/><path d="M560 306 L560 322"/><path d="M572 312 L572 316"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Illustration: a structured ad profile listing topic, tone, pacing, hook strength and audience fit">
+  <rect x="1" y="1" width="638" height="398" rx="18" fill="#0e0e11" stroke="#25252b"/>
+  <text x="36" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8ab4ff">ad_profile.json</text>
+  <line x1="36" y1="68" x2="604" y2="68" stroke="#25252b"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
+    <text x="36" y="100" fill="#6f6f7c">premise</text><text x="200" y="100" fill="#e7e7ee">forbidden royal romance</text>
+    <text x="36" y="130" fill="#6f6f7c">tone</text><text x="200" y="130" fill="#e7e7ee">yearning, moody, first-person</text>
+    <text x="36" y="160" fill="#6f6f7c">pacing</text><text x="200" y="160" fill="#e7e7ee">3 cuts in 2s</text>
+    <text x="36" y="190" fill="#6f6f7c">hook_strength</text>
+    <text x="36" y="220" fill="#6f6f7c">visual_style</text><text x="200" y="220" fill="#e7e7ee">painterly, high contrast</text>
+    <text x="36" y="250" fill="#6f6f7c">audio_style</text><text x="200" y="250" fill="#e7e7ee">moody strings + VO</text>
+    <text x="36" y="280" fill="#6f6f7c">audience_fit</text>
+    <text x="36" y="336" fill="#6f6f7c">trend_context</text><text x="200" y="336" fill="#e7e7ee">rising · 6 days old</text>
+    <text x="36" y="366" fill="#6f6f7c">turnoffs</text><text x="200" y="366" fill="#f0a08a">genre unclear before the hook</text>
+  </g>
+  <!-- hook meter -->
+  <g>
+    <rect x="200" y="180" width="240" height="8" rx="4" fill="#22222a"/>
+    <rect x="200" y="180" width="180" height="8" rx="4" fill="#8ab4ff"/>
+    <text x="456" y="190" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8f8f9c">strong</text>
+  </g>
+  <!-- audience chips -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" fill="#cfd6e6">
+    <rect x="200" y="266" width="96" height="20" rx="10" fill="#1c2436" stroke="#8ab4ff" stroke-opacity=".35"/>
+    <text x="212" y="280">fantasy 18-24</text>
+    <rect x="306" y="266" width="92" height="20" rx="10" fill="#1c2436" stroke="#8ab4ff" stroke-opacity=".35"/>
+    <text x="318" y="280">romance fans</text>
+    <rect x="408" y="266" width="76" height="20" rx="10" fill="#1c2436" stroke="#8ab4ff" stroke-opacity=".35"/>
+    <text x="420" y="280">book-club</text>
+  </g>
+  <g>
+    <rect x="200" y="300" width="240" height="8" rx="4" fill="#22222a"/>
+    <rect x="200" y="300" width="204" height="8" rx="4" fill="#8ab4ff" fill-opacity=".7"/>
+  </g>
+</svg>

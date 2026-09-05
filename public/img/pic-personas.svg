@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Illustration: reader agents reacting to a story ad with skip, like, save, share and comment actions">
+  <rect x="1" y="1" width="638" height="398" rx="18" fill="#0e0e11" stroke="#25252b"/>
+  <g>
+    <!-- persona row 1 -->
+    <rect x="28" y="34" width="584" height="76" rx="12" fill="#15151a" stroke="#33333c"/>
+    <circle cx="66" cy="72" r="20" fill="#232a3a"/><path d="M56 80 a10 10 0 0 1 20 0" fill="#8ab4ff" fill-opacity=".8"/><circle cx="66" cy="64" r="7" fill="#8ab4ff" fill-opacity=".8"/>
+    <text x="100" y="64" font-family="Inter,system-ui,sans-serif" font-size="14" font-weight="600" fill="#e7e7ee">Reader 07 · fantasy-romance reader</text>
+    <text x="100" y="86" font-family="Inter,system-ui,sans-serif" font-size="13" fill="#9a9aa8">&#8220;Tapped straight through. Sending this to my book club.&#8221;</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">
+      <rect x="470" y="60" width="42" height="20" rx="10" fill="#16241c" stroke="#5fd08a" stroke-opacity=".45"/><text x="480" y="74" fill="#7fe0a4">like</text>
+      <rect x="518" y="60" width="42" height="20" rx="10" fill="#16241c" stroke="#5fd08a" stroke-opacity=".45"/><text x="527" y="74" fill="#7fe0a4">save</text>
+      <rect x="566" y="60" width="46" height="20" rx="10" fill="#1c2436" stroke="#8ab4ff" stroke-opacity=".5"/><text x="575" y="74" fill="#a8c6ff">share</text>
+    </g>
+  </g>
+  <g>
+    <rect x="28" y="126" width="584" height="76" rx="12" fill="#15151a" stroke="#33333c"/>
+    <circle cx="66" cy="164" r="20" fill="#2a2a33"/><path d="M56 172 a10 10 0 0 1 20 0" fill="#8f8f9c"/><circle cx="66" cy="156" r="7" fill="#8f8f9c"/>
+    <text x="100" y="156" font-family="Inter,system-ui,sans-serif" font-size="14" font-weight="600" fill="#e7e7ee">Reader 12 · casual scroller</text>
+    <text x="100" y="178" font-family="Inter,system-ui,sans-serif" font-size="13" fill="#9a9aa8">&#8220;Genre wasn&#8217;t clear. Skipped at the cover card.&#8221;</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">
+      <rect x="552" y="152" width="60" height="20" rx="10" fill="#2a1a1a" stroke="#f0a08a" stroke-opacity=".45"/><text x="565" y="166" fill="#f0a08a">skip</text>
+    </g>
+  </g>
+  <g>
+    <rect x="28" y="218" width="584" height="76" rx="12" fill="#15151a" stroke="#33333c"/>
+    <circle cx="66" cy="256" r="20" fill="#232a3a"/><path d="M56 264 a10 10 0 0 1 20 0" fill="#8ab4ff" fill-opacity=".6"/><circle cx="66" cy="248" r="7" fill="#8ab4ff" fill-opacity=".6"/>
+    <text x="100" y="248" font-family="Inter,system-ui,sans-serif" font-size="14" font-weight="600" fill="#e7e7ee">Reader 23 · core-genre commenter</text>
+    <text x="100" y="270" font-family="Inter,system-ui,sans-serif" font-size="13" fill="#9a9aa8">&#8220;This trope&#8217;s been done better, but I&#8217;m curious.&#8221;</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">
+      <rect x="486" y="244" width="72" height="20" rx="10" fill="#1c2436" stroke="#8ab4ff" stroke-opacity=".5"/><text x="496" y="258" fill="#a8c6ff">comment</text>
+      <rect x="564" y="244" width="48" height="20" rx="10" fill="#16241c" stroke="#5fd08a" stroke-opacity=".45"/><text x="574" y="258" fill="#7fe0a4">like</text>
+    </g>
+  </g>
+  <line x1="28" y1="320" x2="612" y2="320" stroke="#25252b"/>
+  <text x="28" y="350" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#8f8f9c">round 1 &#183; 24 readers &#183; 9 shares &#183; next round expands</text>
+  <text x="28" y="374" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#6f6f7c">reader agents react in character, not as polite reviewers</text>
+</svg>
