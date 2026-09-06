@@ -8,8 +8,9 @@ export function Pricing() {
           <p className="kicker">07 · Business model</p>
           <h2>Freemium SaaS, priced by how much you bet on creative.</h2>
           <p className="section__sub">
-            Four tiers, from free to enterprise. Exact prices aren’t fixed yet: what’s included at each
-            level is the plan.
+            Three tiers. Free to try one creative, Team for everything a marketing team runs day to
+            day, Enterprise to put it inside an ad stack. Exact prices aren’t fixed yet — what’s
+            included at each level is the plan.
           </p>
         </header>
 

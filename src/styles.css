@@ -175,7 +175,7 @@ a{color:inherit;text-decoration:none}
 .who__item p{color:var(--txt-2);font-size:15px;line-height:1.55}
 
 /* ============ tiers ============ */
-.tiers{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;align-items:stretch}
+.tiers{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;align-items:stretch}
 .tier{border:1px solid var(--line);border-radius:var(--r-lg);padding:28px 24px;background:var(--panel);
   display:flex;flex-direction:column;position:relative;transition:.25s}
 .tier:hover{border-color:var(--line-hi);transform:translateY(-3px)}
@@ -235,7 +235,7 @@ a{color:inherit;text-decoration:none}
   .sim{max-width:560px}
   .report{grid-template-columns:1fr;gap:36px}
   .report__fig{position:static}
-  .tiers,.vision-grid{grid-template-columns:repeat(2,1fr)}
+  .vision-grid{grid-template-columns:repeat(2,1fr)}
   .vg--wide{grid-column:span 2}
   .who{grid-template-columns:repeat(2,1fr)}
     .nav__links{display:none}
@@ -254,7 +254,8 @@ a{color:inherit;text-decoration:none}
   .sim__map{grid-template-columns:repeat(10,1fr)}
 }
 @media (max-width:560px){
-  .tiers,.vision-grid,.who,  .vg--wide{grid-column:span 1}
+  .tiers,.vision-grid,.who{grid-template-columns:1fr}
+  .vg--wide{grid-column:span 1}
   .hero{padding:48px 0 64px}
   .sim__meta{grid-template-columns:1fr 1fr 1fr;gap:7px}
   .stat__k{font-size:18px}

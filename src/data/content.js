@@ -95,24 +95,20 @@ export const audiences = [
 export const tiers = [
   {
     name: 'Free',
-    for: 'Individual creative teams · trial',
+    for: 'Trial · one creative at a time',
     features: ['Limited single-creative simulations', 'Core reader-intent score', 'Single reader pool'],
   },
   {
     name: 'Team',
     for: 'Marketing & creative teams · monthly',
     flag: 'Core tier',
-    features: ['Higher simulation limits', 'Saved reports & creative history', 'Trend checks', 'Edit recommendations'],
-  },
-  {
-    name: 'Growth',
-    for: 'Teams running large ad libraries',
     features: [
-      'Creative-library search',
+      'Unlimited single-creative runs',
+      'Batch ranking across your ad library',
+      'Creative-library search & trend-to-ad matching',
+      'Saved reports & creative history',
+      'Edit and audience recommendations',
       'Campaign workspaces',
-      'Batch creative ranking',
-      'Trend-to-ad matching',
-      'Audience recommendations',
     ],
   },
   {
