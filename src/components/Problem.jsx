@@ -1,4 +1,4 @@
-import { afterPosting, theGap, decisions } from '../data/content.js'
+import { afterPosting, theGap } from '../data/content.js'
 
 export function Problem() {
   return (
@@ -33,15 +33,6 @@ export function Problem() {
             </ul>
             <p className="card__foot">The gap is creative decision-making before spend, not after.</p>
           </article>
-        </div>
-
-        <div className="decisions">
-          <p className="decisions__lead">The questions a marketing team is really asking:</p>
-          <ol className="decisions__list">
-            {decisions.map((item) => (
-              <li key={item}>{item}</li>
-            ))}
-          </ol>
         </div>
       </div>
     </section>

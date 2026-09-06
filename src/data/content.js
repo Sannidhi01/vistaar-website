@@ -36,13 +36,6 @@ export const theGap = [
   'Where exactly will readers drop off?',
 ]
 
-export const decisions = [
-  'Should we fix this ad, push it now, or choose another creative?',
-  'Is the curiosity gap strong enough to earn the tap?',
-  'Does the opening risk getting skipped?',
-  'Which of our existing story ads should we activate for a trending theme?',
-  'Are we spending budget before or after we know it works?',
-]
 
 export const steps = [
   {
