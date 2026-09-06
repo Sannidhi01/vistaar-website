@@ -56,7 +56,7 @@ export const steps = [
   {
     no: '03',
     title: 'Simulate the reader audience',
-    line: 'Core, adjacent and skeptic readers react in character.',
+    line: 'Readers react in character: watch, skip, save, share, or tap to read.',
     img: '/img/pic-personas.svg',
     alt: 'Reader agents reacting to a story ad with tap-to-read, skip and comment actions',
     caption: 'Illustrative reader reactions.',
