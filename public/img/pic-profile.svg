@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Illustration: a structured ad profile listing topic, tone, pacing, hook strength and audience fit">
   <rect x="1" y="1" width="638" height="398" rx="18" fill="#0e0e11" stroke="#25252b"/>
-  <text x="36" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8ab4ff">ad_profile.json</text>
+  <text x="36" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8ab4ff">ad_profile</text>
   <line x1="36" y1="68" x2="604" y2="68" stroke="#25252b"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
     <text x="36" y="100" fill="#6f6f7c">premise</text><text x="200" y="100" fill="#e7e7ee">forbidden royal romance</text>
