@@ -93,15 +93,11 @@ export const audiences = [
   { icon: '▢', title: 'Creative strategists', body: 'Diagnosing why a beautiful ad still isn’t converting, and what to fix first.' },
   { icon: '♪', title: 'Performance marketing teams', body: 'Ranking a large ad library instead of guessing which creative to push.' },
   { icon: '◈', title: 'Trend & culture teams', body: 'Matching a booming theme to the closest story ads already in the library.' },
+  { icon: '◐', title: 'Creators & influencers', body: 'Pointing the same engine at a solo creator’s Reel or a short-form ad instead of a story ad.' },
+  { icon: '▷', title: 'Launches & trailers', body: 'Music drops, film trailers, and game or app launches, judged before the spend goes out.' },
+  { icon: '✦', title: 'Brand & UGC campaigns', body: 'Ranking brand and creator-made campaign assets exactly the way story creative is ranked.' },
 ]
 
-export const genericVerticals = [
-  'Solo creators & influencers',
-  'Short-form ads & Reels',
-  'Music & film trailers',
-  'Game & app launches',
-  'Brand & UGC campaigns',
-]
 
 export const tiers = [
   {
@@ -134,22 +130,10 @@ export const tiers = [
 ]
 
 export const visionCards = [
-  {
-    title: 'Trend monitoring',
-    body: 'Continuously track the themes, tropes and emotions that are currently trending in culture.',
-  },
-  {
-    title: 'Creative-library matching',
-    body: 'Search the full story-ad library for creatives that already match a booming theme.',
-  },
-  {
-    title: 'Batch creative ranking',
-    body: 'Score every candidate ad by reader-acquisition potential, not by gut feeling.',
-  },
-  {
-    title: 'Audience recommendations',
-    body: 'Recommend which reader segment to target for each matched creative.',
-  },
+  { title: 'Trend monitoring', body: 'Track the themes, tropes and emotions trending right now.' },
+  { title: 'Creative-library matching', body: 'Find ads already in the library that match a booming theme.' },
+  { title: 'Batch creative ranking', body: 'Score the whole candidate set, not one ad at a time.' },
+  { title: 'Audience recommendations', body: 'Name the reader segment to target for each match.' },
 ]
 
 export const signals = ['Reader intent', 'Curiosity gap', 'Genre fit', 'Skip risk', 'Trend timing']
