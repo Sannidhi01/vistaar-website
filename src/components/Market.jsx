@@ -9,7 +9,7 @@ export function Market() {
           <h2>Anyone who has to bet on a creative.</h2>
           <p className="section__sub">
             Story apps are the first vertical because the reader-intent signal is the easiest to define
-            and sell. The same engine points at any short-form creative — that market is right behind it.
+            and sell. The same engine points at any short-form creative: that market is right behind it.
           </p>
         </header>
 

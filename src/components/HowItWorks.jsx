@@ -21,7 +21,6 @@ export function HowItWorks() {
         <header className="section__head">
           <p className="kicker">03 · The magic</p>
           <h2>Four steps, one pass.</h2>
-          <p className="section__sub">This is what the prototype actually does when you press start.</p>
         </header>
 
         <div className="steps-flow">

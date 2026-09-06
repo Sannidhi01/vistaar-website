@@ -9,7 +9,7 @@ export function Pricing() {
           <h2>Freemium B2B SaaS, priced by how much you bet on creative.</h2>
           <p className="section__sub">
             Three tiers. Free to try one creative, Team for everything a marketing team runs day to
-            day, Enterprise to put it inside an ad stack. Exact prices aren’t fixed yet — what’s
+            day, Enterprise to put it inside an ad stack. Exact prices aren’t fixed yet: what’s
             included at each level is the plan.
           </p>
         </header>

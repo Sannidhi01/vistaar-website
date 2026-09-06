@@ -25,7 +25,7 @@ export function Vision() {
             <p className="vg__label">For example</p>
             <p>
               A fantasy-romance film starts booming. Vistaar surfaces story ads already in the library
-              with matching themes — forbidden love, royal betrayal, magical worlds — and flags them for
+              with matching themes: forbidden love, royal betrayal, magical worlds, and flags them for
               an immediate push.
             </p>
           </div>
